@@ -1,4 +1,4 @@
-# DueUtil
+# DuoUtil
 ### The questing and fun discord bot!
 
 #### Running the bot
